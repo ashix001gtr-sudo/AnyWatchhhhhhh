@@ -1,0 +1,6 @@
+{
+  "name": "AnyWatch",
+  "description": "Ultra-Fast Hybrid Streaming Engine and Media Downloader",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
